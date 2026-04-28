@@ -1,0 +1,322 @@
+<!-----META SECTION----->
+<!DOCTYPE html>
+<html><head>
+<title>Student Portfolio Website Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<!-----MENU SECTION------>
+<div class="main-panel">
+  <div class="container">
+    <div class="width-33 logo">Port <span class="span-col">folio</span>
+    </div>
+    <div class="width-46">
+      <nav>
+        <a href="#">
+          <span class="span-col">Home</span>
+        </a>
+        <a href="#">About me</a>
+        <a href="#">Education</a>
+        <a href="#">My Services</a>
+        <a href="#">Portfolio</a>
+        
+      </nav>
+    </div>
+  </div>
+<!------MAIN BANNERR------>
+<div class="container ">
+  <div class="width-50">
+    <div class="banner-section">
+      <span class="span-col">Welcome To My Profile</span>
+      <h1>Ritesh <span class="span-col">Maske</span>
+      </h1>
+      <h2>- I'm a passionate computer engineer from pune.</h2>
+      <a href="#">
+        <i class="fa fa-facebook"></i>
+      </a>
+      <a href="#">
+        <i class="fa fa-linkedin"></i>
+      </a>
+      <a href="#">
+        <i class="fa fa-instagram"></i>
+      </a>
+      <a href="#">
+        <i class="fa fa-github"></i>
+      </a>
+    </div>
+  </div>
+  <div class="width-50">
+    <img src="images/ritesh.png">
+  </div>
+</div>
+</div>
+
+<!------ABOUT US SECTION------>
+<div class="main-section bg-lightgrey">
+  <div class="container">
+    <div class="width-50">
+      <img src="images/ritesh.png" class="about-img">
+    </div>
+    <div class="width-50">
+      <div class="about-us">
+        <h2 class="heading-text">About Me</h2>
+        <h3>I am Ritesh Vinod Maske
+</h3>
+        <p>Hi, I am Ritesh Maske, a passionate B.Tech Computer Engineering student at MIT Academy of Engineering, Alandi, Pune. I am currently pursuing my degree with an expected graduation in 2029. I have knowledge of C, C++, Python, and HTML, and I am deeply interested in web development. I am continuously learning and working to improve my technical and problem-solving skills to become a successful computer engineer.</p>
+        <div class="width-50 mt-20">
+          <table cellspacing="8" cellpadding="8">
+            <tbody><tr>
+              <th>Name:</th>
+              <td>Ritesh Maske</td>
+            </tr>
+            <tr>
+              <th>Email:</th>
+              <td> ritesh1maske@gmail.com</td>
+            </tr>
+            <tr>
+              <th>Birthday:</th>
+              <td> 08 Feb, 2007</td>
+            </tr>
+            <tr>
+              <th>Study:</th>
+              <td> MITAOE Alandi</td>
+            </tr>
+          </tbody></table>
+        </div>
+        <div class="width-50 mt-20">
+          <table cellspacing="8" cellpadding="8">
+            <tbody><tr>
+              <th>Phone:</th>
+              <td>9699464783</td>
+            </tr>
+            <tr>
+              <th>City:</th>
+              <td>Pune,Maaharashtra</td>
+            </tr>
+            <tr>
+              <th>Freelancer:</th>
+              <td> Available</td>
+            </tr>
+            <tr>
+              <th>Website:</th>
+              <td> www.ritesh.com</td>
+            </tr>
+          </tbody></table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!------SKILL SECTION------>
+<div class="main-section">
+  <div class="container">
+    <h2 class="heading-text">My Skills</h2>
+    <div class="width-50">
+      <div class="skill">
+        <b>C++</b>
+        <span>95%</span>
+        <div>
+          <span style="width:95%"></span>
+        </div>
+      </div>
+      <div class="skill">
+        <b>C</b>
+        <span>90%</span>
+        <div>
+          <span style="width:91%"></span>
+        </div>
+      </div>
+      <div class="skill">
+        <b>HTML</b>
+        <span>75%</span>
+        <div>
+          <span style="width:85%"></span>
+        </div>
+      </div>
+      <div class="skill">
+        <b>Python</b>
+        <span>70%</span>
+        <div>
+          <span style="width:79%"></span>
+        </div>
+      </div>
+    </div>
+    <div class="width-50">
+      <div class="width-50">
+        <div role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="--value:65">Python</div>
+      </div>
+      <div class="width-50">
+        <div role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="--value:85">C++</div>
+      </div>
+      <div class="width-50">
+        <div role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="--value:65">HTML</div>
+      </div>
+      <div class="width-50">
+        <div role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="--value:85">C</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!------EXPERIENCE SECTION------>
+<div class="main-section bg-lightgrey">
+  <div class="container">
+    <div class="edu-exp">
+      <h2 class="heading-text">Education</h2>
+      <div class="experience-list">
+        <div class="experience-content">
+          <h2>Jawahar Vidyalay,Jintur</h2>
+          <h3>2014-2023</h3>
+          <p>Completed primary &amp; secondary education with strong academic performence.Developed interest in mathematics and computer fundamentals.</p>
+        </div>
+      </div>
+      <div class="experience-list">
+        <div class="experience-content">
+          <h2>MIT Junior College,Pune</h2>
+          <h3>2023-2025</h3>
+          <p>Completed Higher Secondary Education(Science Stream).Focused on Physics,Chemistry and Mathematics while building analytical and problem-solving skills.</p>
+        </div>
+      </div>
+      <div class="experience-list">
+        <div class="experience-content">
+          <h2>MIT Academy of Engineering,Alandi</h2>
+          <h3>2025-2029(expected)</h3>
+          <p>Pursuing Bachelor of Technology (B.Tech) in Computer Engineering.Learning programming languages like C,C++,Python and Web development technologies.</p>
+        </div>
+      </div>
+      </div>
+      <div class="edu-exp">
+      <h2 class="heading-text">Experience</h2>
+      <div class="experience-list">
+        <div class="experience-content">
+          <h2>Web Development Projects</h2>
+          <h3>2026-current</h3>
+          <p>Building responsive portfolio websites using HTML,CSS and basic JavaScript.</p>
+        </div>
+      </div>
+      <div class="experience-list">
+        <div class="experience-content">
+          <h2>C &amp; C++ Programming</h2>
+          <h3>2023-present</h3>
+          <p>Strong foundation in programming concepts,problem solving and data structures.</p>
+        </div>
+      </div>
+      <div class="experience-list">
+        <div class="experience-content">
+          <h2>College Technical Activities</h2>
+          <h3>MITAOE,Alandi</h3>
+          <p>Participating in technical events,workshops and improving development skills.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!------SERVICE SECTION------>
+<div class="main-section">
+  <div class="container">
+    <h2 class="heading-text">My Service</h2>
+    <div class="width-50">
+      <div class="service-list">
+        <i class="fa fa-chrome"></i>
+        <h3>Web Development</h3>
+        <p>I build responsive and modern websites using HTML,CSS and basic JvaScript.Focused on clean design and user-friendly interface.</p>
+      </div>
+    </div>
+    <div class="width-50">
+      <div class="service-list">
+        <i class="fa fa-paint-brush"></i>
+        <h3>Web Design</h3>
+        <p>Designing attractive and structured website layouts with proper color combination,typography and responsive structure.</p>
+      </div>
+    </div>
+    <div class="width-50">
+      <div class="service-list">
+        <i class="fa fa-laptop"></i>
+        <h3>Programming</h3>
+        <p>Strong knowledge of C,C++ and Python.Improving problem-solving skills through regular coding practice.</p>
+      </div>
+    </div>
+    <div class="width-50">
+      <div class="service-list">
+        <i class="fa fa-lightbulb-o"></i>
+        <h3>Problem Solving</h3>
+        <p>Solving logical and real-world problems using programming concepts and analytical thinking.</p>
+      </div>
+    </div>
+    <div class="width-50">
+      <div class="service-list">
+        <i class="fa fa-desktop"></i>
+        <h3>Frontend Development</h3>
+        <p>Creating interactive user interface with structured HTML and styled CSS for better user experience.</p>
+      </div>
+    </div>
+    <div class="width-50">
+      <div class="service-list">
+        <i class="fa fa-graduation-cap"></i>
+        <h3>Continuous Learning</h3>
+        <p>Actively learning new technologies and improving technical skills to become a successful software engineer.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-------------CONTACT US SECTION----------------------->
+<div class="main-section contact bg-lightgrey">
+  <div class="container">
+    <h2 class="heading-text">Get In Touch</h2>
+    <div class="width-100">
+      <form>
+        <input type="text" placeholder="Full Name...">
+        <input type="text" placeholder="Full Email Id...">
+        <input type="text" placeholder="Full Mobile No...">
+        <textarea placeholder="Enter Address..."></textarea>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+    <div class="width-33">
+      <h3>
+        <i class="fa fa-map-marker"></i>
+      </h3>
+      <h4>Address</h4>
+      <p>Flat No.2,2nd floor,near Nikhil Grocery,Dehu Phata,Alandi,Pune-412105</p>
+    </div>
+    <div class="width-33">
+      <h3>
+        <i class="fa fa-phone"></i>
+      </h3>
+      <h4>Phone</h4>
+      <p>+91 9699464783</p>
+    </div>
+    <div class="width-33">
+      <h3>
+        <i class="fa fa-envelope-o"></i>
+      </h3>
+      <h4>Email</h4>
+      <p>ritesh1maske@gmail.com.com</p>
+    </div>
+  </div>
+</div>
+
+<!------FOOTER SECTION------>
+<div class="footer">
+  <div class="container">
+    <div class="footer-sect social-icon width-50">
+      <a href="#">
+        <i class="fa fa-facebook"></i>
+      </a>
+      <a href="#">
+        <i class="fa fa-linkedin"></i>
+      </a>
+      <a href="#">
+        <i class="fa fa-instagram"></i>
+      </a>
+    </div>
+</div>
+</div></body></html>
